@@ -117,7 +117,7 @@ export default function About() {
                 </div>
                 <p style={styles.text}>
                   Dr Omesh Anthony Fernando is a Cybersecurity and Networking Researcher and Lecturer
-                  at the University of Hertfordshire, teaching across Cybersecurity, Networking, and
+                  in HEAd , teaching across Cybersecurity, Networking, and
                   Data Science. He completed his BSc (Hons) in Applied Computing with Networks at
                   Sheffield Hallam University (2015), his MSc in Computer Networks Practice and
                   Principles at the University of Hertfordshire (2018), and his PhD in Computer
